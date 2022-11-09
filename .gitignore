@@ -1,2 +1,5 @@
-js
-jsfuck
+js/*
+jsfuck/*
+
+!js/euclid.js
+!jsfuck/euclid.js
